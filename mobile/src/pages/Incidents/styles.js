@@ -23,7 +23,7 @@ export default StyleSheet.create({
     fontWeight: 'bold',
   },
   
-  title:{
+  title: {
     fontSize: 30,
     marginBottom: 16,
     marginTop: 48,
@@ -31,43 +31,43 @@ export default StyleSheet.create({
     fontWeight: 'bold',
   },
   
-  description:{
+  description: {
     fontSize: 16,
     lineHeight: 24,
     color: '#737380',
   },
 
-  incidentList:{
+  incidentList: {
     marginTop: 32,
   },
 
-  incident:{
+  incident: {
     padding: 24,
     borderRadius: 8,
     backgroundColor: '#FFF',
     marginBottom: 16,
   },
 
-  incidentProperty:{
+  incidentProperty: {
     fontSize: 14,
     color: '#41414d',
     fontWeight: 'bold',
   },
 
-  incidentValue:{
+  incidentValue: {
     marginTop: 8,
     fontSize: 15,
     marginBottom: 24,
     color: '#737380',
   },
 
-  detailsButton:{
+  detailsButton: {
     flexDirection: 'row',
     justifyContent: 'space-between',
     alignItems: 'center',
   },
 
-  detailsButtonText:{
+  detailsButtonText: {
     color: '#E02041',
     fontSize: 15,
     fontWeight: 'bold',

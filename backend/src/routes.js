@@ -64,7 +64,7 @@ routes.post('/incidents', celebrate({
   [Segments.BODY]: Joi.object().keys({
     title: Joi.string().required(),
     description: Joi.string().required(),
-    value: Joi.string().pattern( new RegExp('^([1-9]\d{0,2}(\d*|(\.\d{3})*)|0)(,\d{2})*$') ),
+    value: Joi.number(),
   }),
 }), IncidentController.create);
 

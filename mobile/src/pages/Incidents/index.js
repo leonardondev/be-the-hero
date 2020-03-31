@@ -3,9 +3,9 @@ import { Feather } from '@expo/vector-icons'
 import { useNavigation } from '@react-navigation/native'
 import { View, FlatList, Image, Text, TouchableOpacity } from 'react-native';
 
-import api from './../../services/api';
+import api from '../../services/api';
 
-import logoImg from './../../assets/logo.png';
+import logoImg from '../../assets/logo.png';
 
 import styles from './styles';
 

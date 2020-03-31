@@ -11,20 +11,20 @@ module.exports = {
     return response.json(incidents);
    },
    
-   async show(request,response) {
+   // async show(request,response) {
    
-   },
+   // },
    
-   async store(request,response) {
+   // async store(request,response) {
    
-   },
+   // },
    
-   async update(request,response) {
+   // async update(request,response) {
    
-   },
+   // },
    
-   async destroy(request,response) {
+   // async destroy(request,response) {
    
-   },
+   // },
    
 }

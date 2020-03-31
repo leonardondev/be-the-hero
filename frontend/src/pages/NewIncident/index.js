@@ -34,7 +34,7 @@ export default function NewIncident() {
       });
 
       history.push('/profile');
-    } catch (error) {
+    } catch (err) {
       alert('Erro ao cadastrar caso, tente novamente.');
     }
   }

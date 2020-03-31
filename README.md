@@ -1,6 +1,6 @@
 
 # Be The Hero 
-![](/frontend/src/assets/logo.svg)
+![](/images/logo.svg)
 
 
 ![Node.js CI](https://github.com/LeonardoFuba/semanaOmnistack11/workflows/Node.js%20CI/badge.svg?branch=master)
@@ -14,7 +14,6 @@ Basicamente, o projeto conecta ONGs com pessoas que querem ajudar.
 
 As ONGs registram os casos / incidentes por meio do front-end e as pessoas visitam o aplicativo mobile, considerando entrar em contato com a ONG por e-mail ou whatsapp para ajudar, tornando-se o herói deste caso.
 
-----
 
 ## Tecnologias usadas
 1. Node.js, [Express](https://expressjs.com/) (backend)
@@ -24,7 +23,6 @@ As ONGs registram os casos / incidentes por meio do front-end e as pessoas visit
 5. [Celebrate](https://github.com/arb/celebrate)/[Jest](https://jestjs.io/) (validations)
 6. [Supertest](https://github.com/visionmedia/supertest) (tests)
 
-----
 
 ## Execução local da aplicação
 
@@ -72,10 +70,18 @@ npm start
 ```
 
 
-* Através de um emulador acessar o endereço web gerado pelo `npm start` da camada mobile
+* Através de um emulador de smartfone acessar o endereço web gerado pelo `npm start` da camada mobile
 
 ou 
 
 * Atráves de um smartfone com o aplicativo expo para **[Android](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR)** ou **[iOS](https://apps.apple.com/br/app/expo-client/id982107779)** instalado ler o QR code gerado pelo `npm start` da camada mobile com o aplicativo expo
 
 ---
+
+<img src="images/screenshots/pg1.png" height="300em"/>
+<img src="images/screenshots/pg2.png" height="300em"/>
+<img src="images/screenshots/pg3.png" height="300em"/>
+<img src="images/screenshots/pg4.png" height="300em"/>
+
+
+<img src="images/screenshots/mb1.jpg" height="300em"/> <img src="images/screenshots/mb2.jpg" height="300em"/> <img src="images/screenshots/mb3.jpg" height="300em"/> <img src="images/screenshots/mb4.jpg" height="300em"/> <img src="images/screenshots/mb5.jpg" height="300em"/>

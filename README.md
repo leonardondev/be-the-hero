@@ -3,7 +3,7 @@
 </h1>
 
 <p align="left">
-<img alt="Node.js CI" src="https://github.com/LeonardoFuba/semanaOmnistack11/workflows/Node.js%20CI/badge.svg?branch=master"/>
+<img alt="Node.js CI" src="https://github.com/LeonardoFuba/semanaOmnistack11/workflows/Node.js%20CI/badge.svg"/>
 
 <img alt="Repository size" src="https://img.shields.io/github/repo-size/LeonardoFuba/semanaOmnistack11">
 

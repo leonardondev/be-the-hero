@@ -1,5 +1,6 @@
 node_modules/**/*
 package-lock.json
+yarn.lock
 .expo/*
 npm-debug.*
 *.jks
@@ -13,3 +14,5 @@ web-report/
 
 # macOS
 .DS_Store
+
+
